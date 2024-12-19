@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="kitapTakipModelStoreContainer" CdmEntityContainer="kitapTakipEntities">
+    <EntitySetMapping Name="kitaplarims">
+      <EntityTypeMapping TypeName="kitapTakipModel.kitaplarim">
+        <MappingFragment StoreEntitySet="kitaplarim">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Page" ColumnName="Page" />
+          <ScalarProperty Name="Kind" ColumnName="Kind" />
+          <ScalarProperty Name="Writer" ColumnName="Writer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

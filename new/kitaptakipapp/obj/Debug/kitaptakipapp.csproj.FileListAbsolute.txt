@@ -1,0 +1,15 @@
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\bin\Debug\kitaptakipapp.exe.config
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\bin\Debug\kitaptakipapp.exe
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\bin\Debug\kitaptakipapp.pdb
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\bin\Debug\EntityFramework.dll
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\bin\Debug\EntityFramework.xml
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptakipapp.csproj.AssemblyReference.cache
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptakipapp.Form1.resources
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptakipapp.Properties.Resources.resources
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptakipapp.csproj.GenerateResource.cache
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptakipapp.csproj.CoreCompileInputs.cache
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptak.010C4AAB.Up2Date
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptakipapp.exe
+C:\Users\numan\source\repos\kitaptakipapp\kitaptakipapp\obj\Debug\kitaptakipapp.pdb
